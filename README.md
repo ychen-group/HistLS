@@ -1,6 +1,6 @@
 # HistLS
 
-This repository contains the code to the HistLS algorithm for solving Weighted Partial MaxSAT instances.
+This repository contains the code for the HistLS algorithm, which is used to solve Weighted Partial MaxSAT instances.
 
 ## Run
 
