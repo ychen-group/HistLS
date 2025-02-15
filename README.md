@@ -1,8 +1,8 @@
-# RASLite
+# HistLS
 
 This repository contains the code to the HistLS algorithm for solving Weighted Partial MaxSAT instances.
 
-## Installation
+## Run
 
 On a Unix/Linux machine, execute the following commands:  
 
