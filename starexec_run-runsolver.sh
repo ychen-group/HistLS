@@ -1,7 +1,7 @@
 #!/bin/bash
 #$1: instance file
-wl=300
 
+wl=300
 ./runsolver --timestamp -d 15 -o output.out -v output.var -w output.wat -C $wl ./HistLS $1
 cat output.out
 rm -f output.out
