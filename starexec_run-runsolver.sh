@@ -1,8 +1,6 @@
 #!/bin/bash
 #$1: instance file
-#$2: seed
-#$3: cutoff time
-wl=$3
+wl=300
 
 ./runsolver --timestamp -d 15 -o output.out -v output.var -w output.wat -C $wl ./HistLS $1
 cat output.out
