@@ -11,7 +11,7 @@ cd HistLS-main
 make  
 
 An executable file called HistLS will now be available in the HistLS-main directory.  
-To run the algorithm, enter the command `./starexec_run-runsolver instance_name`, to run the algorithm.
+To run the algorithm, enter the command `./starexec_run-runsolver.sh instance_name`.
 
 ## Contact
 
