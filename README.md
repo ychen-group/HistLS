@@ -1,14 +1,22 @@
 # HistLS
 
-This repository contains the code for the HistLS algorithm, which is used to solve Weighted Partial MaxSAT instances.
+This repository contains the implementation of the HistLS algorithm for Weighted Partial MaxSAT, as proposed in our paper:
 
-## Run
+Improving Local Search for Weighted Partial MaxSAT by Initializing with Historical Information
 
-On a Unix/Linux machine, execute the following commands:  
+## Installation
 
-unzip HistLS-main.zip  
-cd HistLS-main  
-make  
+To install and compile HistLS on a Unix/Linux machine, execute the following commands:
+```
+git clone https://github.com/jmhmaxsat/HistLS.git  
+cd HistLS
+make
+```
 
-An executable file called HistLS will now be available in the HistLS-main directory.  
-To run the algorithm, enter the command `./starexec_run-runsolver.sh instance_name`.
+After compilation, an executable file named HistLS will be available in the HistLS directory.
+To run the algorithm, use the following command: `./starexec_run-runsolver.sh instance_name`.
+
+## Contact
+
+For questions and suggestions, please contact jiangmenghua@m.scnu.edu.cn.
+
