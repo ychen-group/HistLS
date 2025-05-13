@@ -4,7 +4,7 @@ This repository contains the implementation of the HistLS algorithm for Weighted
 
 Improving Local Search for Weighted Partial MaxSAT by Initializing with Historical Information
 
-## Installation
+## Usage Guide
 
 To install and compile HistLS on a Unix/Linux machine, execute the following commands:
 ```
