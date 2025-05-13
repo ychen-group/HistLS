@@ -20,3 +20,6 @@ To run the algorithm, use the following command: `./starexec_run-runsolver.sh in
 
 For questions and suggestions, please contact jiangmenghua@m.scnu.edu.cn.
 
+## Acknowledgements​​
+
+We gratefully acknowledge the authors of [USW-LS]([https://lcs.ios.ac.cn/~caisw/Code/maxsat/](https://github.com/filyouzicha/USW-LS)) for sharing their code.
